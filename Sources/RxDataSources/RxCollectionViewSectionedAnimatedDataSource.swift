@@ -13,7 +13,7 @@ import UIKit
 import RxSwift
 import RxCocoa
 #endif
-import Differentiator
+
 
 /*
  This is commented becuse collection view has bugs when doing animated updates. 

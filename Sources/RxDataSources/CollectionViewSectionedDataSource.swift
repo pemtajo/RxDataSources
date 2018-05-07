@@ -12,7 +12,7 @@ import UIKit
 #if !RX_NO_MODULE
 import RxCocoa
 #endif
-import Differentiator
+
     
 open class CollectionViewSectionedDataSource<S: SectionModelType>
     : NSObject

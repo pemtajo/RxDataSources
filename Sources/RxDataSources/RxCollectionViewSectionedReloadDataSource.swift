@@ -13,7 +13,7 @@ import UIKit
 import RxSwift
 import RxCocoa
 #endif
-import Differentiator
+
 
 open class RxCollectionViewSectionedReloadDataSource<S: SectionModelType>
     : CollectionViewSectionedDataSource<S>

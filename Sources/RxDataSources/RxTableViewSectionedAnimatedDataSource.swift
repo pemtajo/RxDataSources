@@ -13,7 +13,7 @@ import UIKit
 import RxSwift
 import RxCocoa
 #endif
-import Differentiator
+
 
 open class RxTableViewSectionedAnimatedDataSource<S: AnimatableSectionModelType>
     : TableViewSectionedDataSource<S>
